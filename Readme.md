@@ -1,6 +1,6 @@
 # Openweather-Node
 
-Openweather-Node is for get weather from openweather api.
+Openweather-Node is to get weather information [tempperature to be specific] from openweather api.
 
 ## Installation
 
